@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/W03E02EcoLameLight.X.production.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>49152</length>                 
+      <used>310</used>                     
+      <free>48842</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>6144</length>                 
+      <used>1</used>                     
+      <free>6143</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

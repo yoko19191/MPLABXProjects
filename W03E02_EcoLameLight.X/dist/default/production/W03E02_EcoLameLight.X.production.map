@@ -1,0 +1,6 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/microchip/xc8/v2.30/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_exit.o)
+                              /opt/microchip/mplabx/v5.40/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avrxmega3/crtatmega4809.o (exit)
+/opt/microchip/xc8/v2.30/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3/libgcc.a(_copy_data.o)
+                              build/default/production/main_own.o (__do_clear_bss)

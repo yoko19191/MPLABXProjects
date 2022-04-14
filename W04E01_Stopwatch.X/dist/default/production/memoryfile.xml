@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/W04E01_Stopwatch.X.production.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>49152</length>                 
+      <used>2286</used>                     
+      <free>46866</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>6144</length>                 
+      <used>22</used>                     
+      <free>6122</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

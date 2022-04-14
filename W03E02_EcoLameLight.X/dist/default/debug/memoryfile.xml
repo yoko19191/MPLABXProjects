@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/debug/W03E02EcoLameLight.X.debug.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>49152</length>                 
+      <used>302</used>                     
+      <free>48850</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>6144</length>                 
+      <used>1</used>                     
+      <free>6143</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
